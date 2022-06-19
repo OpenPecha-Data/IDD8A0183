@@ -1,0 +1,36 @@
+id: IDD8A0183
+source: https://sakyaresearch.org
+source_file: null
+initial_creation_type: input
+imported: '2022-06-19T14:21:35.831821'
+last_modified: '2022-06-19T14:21:35.831831'
+parser: null
+source_metadata:
+  title: Hagiography of mTshal min bSod nams bzang po (1341–1433)
+  author: yon tan bzang po/
+  description: 'Digital version 1.0 {Wylie}; WYLIE COPY of master xml (completed:
+    2013-04); revision in process, thematic TEI markup'
+  file_info:
+  - 'Language: Wylie'
+  - 'Coverage: Full Text'
+  - 'Accessible: publicly'
+  responibilities:
+  - Digital edition:Sakya Research Centre (src)
+  - Text input:Lobsang Gyaltsen (Dharamsala) (lg)
+  - Editorial process:Mathias Fermer (mf)
+  - TEI Encoding:Sakya Research Centre
+  - TEI Markup:Mathias Fermer (mf)
+  - Revisions/Corrections:Lobsang Gyaltsen (lg)
+  text_witnesses: https://sakyaresearch.org/sources/504
+  bases:
+    454e:
+      title: Hagiography of mTshal min bSod nams bzang po (1341–1433)
+      order: 1
+      base_file: 454e.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
